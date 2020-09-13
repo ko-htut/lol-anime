@@ -1,7 +1,7 @@
 {
-  "name": "coreui-free-admin-vue-nuxt-js",
+  "name": "lol-anime-myanmar",
   "version": "1.0.0",
-  "description": "coreui-free-admin-vue-nuxt-js",
+  "description": "Lol Anime Myanmar",
   "author": "https://theoddwave.co.nz/",
   "scripts": {
     "dev": "cross-env NODE_ENV=development nodemon server/index.js --watch server",

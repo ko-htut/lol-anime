@@ -20,13 +20,13 @@ export default [
         _name: 'CSidebarNavItem',
         name: 'Movie',
         to: '/movie',
-        icon: 'cil-drop'
+        icon: 'cil-speedometer'
       },
       {
         _name: 'CSidebarNavItem',
         name: 'Series',
         to: '/series',
-        icon: 'cil-drop'
+        icon: 'cil-speedometer'
       },
       {
         _name: 'CSidebarNavItem',
